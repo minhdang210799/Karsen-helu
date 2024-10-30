@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+header a {
+    background-color: black;
+    padding: 10px;
+    border-radius: 25px;
+
+    color: lightblue;
+    text-decoration: none;
+}
+
+h1 {
+    color: lightred;
+    text-align: center;
+    border: 5px solid blanchedalmond;
+    border-radius: 99px;
+}
+
+footer{
+    background-color: whitesmoke;
+    padding: 30px
+
+}
+
+footer p{
+    padding: 29px;
+    background-color: azure;
+}
+
+nav a:
